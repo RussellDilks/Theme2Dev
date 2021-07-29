@@ -2085,3 +2085,6 @@ details-disclosure > details {
     overflow: auto;
   }
 }
+.anyclass{
+  display:block;
+}
